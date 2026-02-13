@@ -1,0 +1,8 @@
+google-genai
+aiokafka
+kafka-python-ng
+redis[hiredis]
+ddgs
+crawl4ai
+python-dotenv
+streamlit
