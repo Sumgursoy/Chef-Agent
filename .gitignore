@@ -1,6 +1,9 @@
 # Environment variables (API keys, secrets)
 .env
 
+# Cloned repo
+Chef-Agent/
+
 # Python
 __pycache__/
 *.py[cod]
